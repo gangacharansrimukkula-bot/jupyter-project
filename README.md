@@ -2,8 +2,7 @@
  project: [Brief goal, e.g., Customer churn prediction] using Jupyter Notebook. Data cleaning, EDA, feature engineering, and model deployment
 # [sentiment analysis on amazon product reviews] – Jupyter Notebook
 
-**Description**  
-[Short 1-2 sentence summary from what you put in the repo description, e.g.:  
+**Description**   
 Exploratory data analysis and machine learning model for customer churn prediction using Python and Jupyter Notebook.]
 
 This repository contains a Jupyter Notebook ('jupyter_notebook.ipynb') that demonstrates data cleaning, visualization, feature engineering, and model building.
